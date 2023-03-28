@@ -1,1 +1,2 @@
 i have made a correction
+This has been made after connecting to remote repository on gitHub
